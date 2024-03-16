@@ -1,0 +1,20 @@
+[submodule "multirepo-git"]
+	path = multirepo-git
+	url = git@github.com:Czechitas-podklady-WEB/multirepo-git.git
+	branch = main
+[submodule "multirepo-html-css"]
+	path = multirepo-html-css
+	url = git@github.com:Czechitas-podklady-WEB/multirepo-html-css.git
+	branch = main
+[submodule "multirepo-js1"]
+	path = multirepo-js1
+	url = git@github.com:Czechitas-podklady-WEB/multirepo-js1.git
+	branch = main
+[submodule "multirepo-js2"]
+	path = multirepo-js2
+	url = git@github.com:Czechitas-podklady-WEB/multirepo-js2.git
+	branch = main
+[submodule "multirepo-react1"]
+	path = multirepo-react1
+	url = git@github.com:Czechitas-podklady-WEB/multirepo-react1.git
+	branch = main
