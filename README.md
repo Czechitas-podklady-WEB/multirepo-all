@@ -12,8 +12,8 @@ Odkazovaná repository používají kurzy Czechitas:
 * [React 1](https://kodim.cz/czechitas/react1/)
 
 ## Způsob použití
-Aktualizace všech submodulů:
+Aktualizace všech submodulů (rekurzivní aktualizace – aktualizuje i submoduly submodulů):
 
 ```sh
- git submodule update --remote
+ git submodule update --remote --recursive
 ```
