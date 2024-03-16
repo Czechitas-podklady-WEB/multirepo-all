@@ -12,6 +12,17 @@ Odkazovaná repository používají kurzy Czechitas:
 * [React 1](https://kodim.cz/czechitas/react1/)
 
 ## Způsob použití
+
+### Klonování
+
+Naklonování všech repository odkazovaných v tomto repository (rekurzivně, tj. mělo by naklonovat všechna repository potřebná pro DA Web):
+
+```sh
+git clone --recurse git@github.com:Czechitas-podklady-WEB/multirepo-all.git
+```
+
+### Aktualizace
+
 Aktualizace všech submodulů (rekurzivní aktualizace – aktualizuje i submoduly submodulů):
 
 ```sh
